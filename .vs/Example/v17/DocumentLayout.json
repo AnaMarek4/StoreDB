@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "ExampleWebApi\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAQwJAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:59:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ExampleWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwKEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:28:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Store.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Store.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Store.cs",
+              "RelativeToolTip": "ExampleWebApi\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:50:56.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Product.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Product.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Product.cs",
+              "RelativeToolTip": "ExampleWebApi\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:01:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ExampleWebApi\\appsettings.json",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\appsettings.json",
+              "RelativeToolTip": "ExampleWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T10:17:08.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Program.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Program.cs",
+              "RelativeToolTip": "ExampleWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:43:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeExtension.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\DateTimeExtension.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\DateTimeExtension.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\DateTimeExtension.cs",
+              "RelativeToolTip": "ExampleWebApi\\DateTimeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:54:13.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
